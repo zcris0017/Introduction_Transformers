@@ -1,5 +1,5 @@
 #%%
-with open('transformer.py', 'r') as f:
+with open('test.py', 'r') as f:
     code = f.read()
 exec(code)
 """
